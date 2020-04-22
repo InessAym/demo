@@ -11,4 +11,16 @@
   "profile": {
     "name": "typicode"
   }
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "password": "123456789",
+      "isadmin": "true",
+      "entity": {
+        "name": "SI",
+        "role": "entitymanager"
+      }
+    },
 }
